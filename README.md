@@ -1,2 +1,3 @@
 # ohtuvarasto
- Kurssin TKT20006 Ohjelmistotuotanto 2023 GitHub-harjoitukset
+
+![GHA workflow badge](https://github.com/SaijaGit/ohtuvarasto/workflows/CI/badge.svg)
