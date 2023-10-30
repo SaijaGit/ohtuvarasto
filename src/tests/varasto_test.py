@@ -1,6 +1,7 @@
 import unittest
 from varasto import Varasto
 
+# Yksikkötestit luokalle varasto.py
 
 class TestVarasto(unittest.TestCase):
     def setUp(self):
