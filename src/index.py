@@ -7,8 +7,8 @@ def main():
 
     print("Luonnin jälkeen:")
     # Rikkoo pylint-sääntöä "inconsistent-quotes"
-    print(f'Mehuvarasto: {mehua}')
-    #print(f"Mehuvarasto: {mehua}")
+    #print(f'Mehuvarasto: {mehua}')
+    print(f"Mehuvarasto: {mehua}")
     print(f"Olutvarasto: {olutta}")
 
     print("Olut getterit:")
