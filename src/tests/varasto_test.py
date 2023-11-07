@@ -98,4 +98,4 @@ class TestVarasto(unittest.TestCase):
     
     def test_tilateksti_oikein(self):
         self.varasto.lisaa_varastoon(8.5)
-        self.assertEqual(str(self.varasto), "saldo = 8.5, vielä tilaa 1.5")
+        self.assertEqual(str(self.varasto), ("saldo = 8.5, vielä tilaa " + '1.5'))
